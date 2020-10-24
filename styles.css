@@ -44,6 +44,11 @@ a {
     width: 35rem;
 }
 
+.center {
+    display: flex;
+    justify-content: center;
+}
+
 .search button {
     display: inline;
     margin: 1rem 0.5rem;
